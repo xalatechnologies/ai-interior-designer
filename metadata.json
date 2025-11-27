@@ -1,0 +1,8 @@
+{
+  "name": "Lumina Design",
+  "description": "AI-powered interior design consultant. Reimagine your space, compare styles, and get shopping advice using advanced Gemini models.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
